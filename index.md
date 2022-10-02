@@ -8,3 +8,6 @@
     1
    (* n (fact (- n 1)))))
 ```
+- [x] Learn markdown
+- [x] Learn more markdown
+- [ ] World domination
